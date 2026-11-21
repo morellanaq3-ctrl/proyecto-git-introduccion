@@ -2,3 +2,4 @@ INTEGRANTES DEL EQUIPO
 -Mario Orellana- Creador de repositorio
 -Sujeto 2- Usuario simulado
 Fecha de elaboración : 21 de Noviembre de 2026
+Objetivo del equipo: Aprender a usar GitHub y crear un repositorio.
